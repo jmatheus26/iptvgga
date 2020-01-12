@@ -8,6 +8,6 @@ http://pl.server.kcharlie.xyz/HD_TC_FUN/video.m3u8?token=3a0b8f092f3d8376f69c4ed
 #EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD" group-title="Telecines JM",Telecine Pipoca HD
 http://us13.server.knovember.live/HD_TC_PIPOCA/video.m3u8?token=3a0b8f092f3d8376f69c4ed46bea011a
 #EXTINF:-1 type="stream" tvg-id="Telecine Premium HD" group-title="Telecines JM",Telecine Premium HD
-http://us12.server.kkuniform.xyz/HD_TC_PREMIUM_ALTER/video.m3u8?token=3a0b8f092f3d8376f69c4ed46bea011a
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremium_a929eb33_c0d08ca8287f6499b075d8eff73734467b90d00f/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Telecine Touch HD" group-title="Telecines JM",Telecine Touch HD
 https://live.multicanais.com/live/hbofamilyhd/video.m3u8?md5=RjQO42pB80Jlclf0sJ4yvA&expires=1578876823
