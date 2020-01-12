@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="Telecine Action HD" group-title="Telecines JM",Telecine Action HD
-http://pl.server.kdelta.xyz/HD_TC_ACTION/video.m3u8?token=3a0b8f092f3d8376f69c4ed46bea011a
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_c103295b49c3f0e7cd27397c1fe5cbd42caef9c2/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Telecine Cult HD" group-title="Telecines JM",Telecine Cult HD
 http://us.server.kjuliett.live/HD_TC_CULT_ALTER/video.m3u8?token=3a0b8f092f3d8376f69c4ed46bea011a
 #EXTINF:-1 type="stream" tvg-id="Telecine Fun HD" group-title="Telecines JM",Telecine Fun HD
